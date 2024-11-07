@@ -4,7 +4,7 @@ using System;
 
 namespace variaveis {
     class tiposVariaveis {
-        static void Main (string[] args) {
+        static void variaveis (string[] args) {
             //Toda variavel pode receber valores, dependendo do seu tipo que foi declarado ao ser inicializada.
             int dia = 20; // Variaveis do tipo int so podem receber numeros inteiros, como no exemplo.
             float peso = 89.3f; // Variaveis do tipo float podem receber numeros com ponto flutuante.
