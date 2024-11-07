@@ -3,7 +3,7 @@ using System;
 
 namespace Operadores {
     class todosOperadores {
-        static void Main(string[] args) {
+        static void operadores(string[] args) {
 
             //Assim como na matematica podemos usar operadores aritmeticos como o da adição, subtração, multiplacação, divisão e muitos outros.
 
