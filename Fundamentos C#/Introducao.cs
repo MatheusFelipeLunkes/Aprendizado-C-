@@ -3,7 +3,7 @@ using System; // Fazendo importações de bibliotecas
 
 
 namespace Introducao { // Definindo o Namespace
-    class  programa // Definição da classe 
+    class  Programa // Definição da classe 
     {
         static void Introducao (string[] args) // Metodo principal
         {

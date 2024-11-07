@@ -3,8 +3,8 @@ using System;
 
 namespace estruturasDeControle {
 
-    class estruturasControle{
-        static void Main(string [] args) {
+    class EstruturasControle{
+        static void Estruturas (string [] args) {
            // Supondo que o usuario digitou seu login, e senha em um prompt, usar estruturas de controle para permissionar acessos(entre outras coisas) são essenciais nestes casos.
 
             string nomeBanco = "Matheus"; // No exemplo este é um nome vindo de uma base de dados
