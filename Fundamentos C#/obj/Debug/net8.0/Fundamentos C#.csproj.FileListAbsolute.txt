@@ -12,3 +12,4 @@ C:\Users\matlu\Desktop\Aprendizado em C#\Fundamentos C#\obj\Debug\net8.0\refint\
 C:\Users\matlu\Desktop\Aprendizado em C#\Fundamentos C#\obj\Debug\net8.0\Fundamentos C#.pdb
 C:\Users\matlu\Desktop\Aprendizado em C#\Fundamentos C#\obj\Debug\net8.0\Fundamentos C#.genruntimeconfig.cache
 C:\Users\matlu\Desktop\Aprendizado em C#\Fundamentos C#\obj\Debug\net8.0\ref\Fundamentos C#.dll
+C:\Users\matlu\Desktop\Aprendizado em C#\Fundamentos C#\obj\Debug\net8.0\Fundamentos C#.sourcelink.json
